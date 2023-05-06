@@ -1,7 +1,7 @@
 body {
   margin: 0;
   background-color: #0c122c;
-  font-family: sans-serif;
+  font-family: "Lexend Deca", sans-serif;
 }
 
 * {
@@ -67,8 +67,6 @@ img {
   z-index: 20;
   color: white;
   font-size: 12px;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
   left: 480px;
   top: 295px;
 }
@@ -76,8 +74,6 @@ img {
 .gigastotales {
   color: white;
   font-size: 12px;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
   left: 750px;
   top: 295px;
   z-index: 20;
@@ -92,8 +88,6 @@ img {
   left: 750px;
   border-radius: 10px;
   font-size: 20px;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
   font-weight: bold;
   padding-right: 5px;
   padding-top: 0px;
@@ -102,8 +96,6 @@ img {
 
 .gbleft {
   font-size: 14px;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
   font-weight: bold;
   padding: 18px;
   padding-right: 5px;
