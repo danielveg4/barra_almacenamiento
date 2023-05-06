@@ -1,10 +1,10 @@
 # Barra de almacenamiento
 
-![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
+![Imagen del proyecto](https://github.com/danielveg4/barra_almacenamiento/blob/main/captura.png?raw=true)
 
 ## Ejemplo en vivo
 
-- [URL-de-github-pages-de-este-proyecto](URL-de-github-pages-de-este-proyecto)
+- [URL-de-github-pages-de-este-proyecto](https://danielveg4.github.io/barra_almacenamiento/)
 
 ## Descripción 📑
 
